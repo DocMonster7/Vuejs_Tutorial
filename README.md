@@ -17,4 +17,8 @@
  ### Creating a Vuejs Project
  
  `vue create my-project-name`
+ 
+ ### cmd for vscode
+ 
+ `"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"`
   
