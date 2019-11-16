@@ -21,4 +21,9 @@
  ### cmd for vscode
  
  `"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"`
+ 
+ ### importing MaterializeCss into vuejs
+ 
+ `import '../node_modules/materialize-css/dist/css/materialize.min.css'
+import '../node_modules/materialize-css/dist/js/materialize.min.js'`
   
