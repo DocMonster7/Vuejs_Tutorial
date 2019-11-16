@@ -10,3 +10,11 @@
   + vue snippets
   + vue-beautify
   
+ ### Installting VueJs 
+ 
+ `npm install -g @vue/cli`
+ 
+ ### Creating a Vuejs Project
+ 
+ `vue create my-project-name`
+  
